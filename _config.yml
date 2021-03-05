@@ -105,3 +105,4 @@ deploy:
   type: git
   repository: git@github.com:WangLY-wly/WangLY-wly.github.io.git
   branch: main
+  
